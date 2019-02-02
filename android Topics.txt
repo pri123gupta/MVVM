@@ -1,0 +1,45 @@
+jira, rx java, dagger 2, mvp ,mvvm, global class, singleton class, retro fit  ,asynctask disadvantages ,data binding, foreground service, life cycles ,rotation of phone callback methods, ConstraintLayout over linear / relative, recyclerview vs listview , main advantages on recyclerview, how to get data on same activity of recyclerview on button click, ollley, volley vs retrofit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3-8 years of software development experience with experience working in Agile teams using SCRUM.
+Extensive mobile development experience using Android, Android Studio and Gradle to develop both phone and tablet apps.
+Extensive experience with Android SDK, Google Play Services, and Android Compatibility Library.
+Experience in Android development patterns -including Java OOP, MVP, SQLite, JSON/Rest APIs, and multi-threading/background tasks.
+Experience with Android front-end/UI development (with knowledge of Google Material Design), Web services & XML/JSON/REST connectivity/consumption, and local storage/databases/SQLite.
+Experience with common Android libraries such as Dagger2, Retrofit2, etc.
+Experience with build tools such as Fastlane.
+Extensive experience of TDD and writing unit and UI tests using Junit, Mockito, espresso, etc.
+Experience with converting High-Fidelity designs to mobile UI, familiarity with tools such InVisionand Zeplin.
+Must have - Android Studio 2.0, Agile Ci/CD
+
+
+Key Skills: 
+At least 3 years’ experience working with Android/Kotlin/Java
+Delivered multithreaded apps and apps that work extensively with RESTful APIs
+Extensive understanding of software engineering concepts, with recent experience in Agile methodologies, and some experience in traditional Waterfall methodologies (i.e., version control systems, peer coding, code reviews, unit testing, continuous integration, release management, etc.).
+Good understanding of testing and quality assurance, including unit-tests, test plans, virtual test environments, beta tests and early adopter programs, and release management
+
+
+
+
+Bonus Skills  
+Experience in an Enterprise Software field (i.e. CRM, HR, finance) for at least 2 years
+Recent experience with the Atlassian stack (JIRA, Bit Bucket, Confluence) and Git highly preferable
+Experience with RXJava/RXKotlin
+Experience with iOS/Swift
+Experience in integrating apps with core Microsoft Azure services and technologies
+Experience with OAUTH2 concepts, Ping Technologies and Mobile Iron
