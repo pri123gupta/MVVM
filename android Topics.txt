@@ -1,4 +1,4 @@
-jira, rx java, dagger 2, mvp ,mvvm, global class, singleton class, retro fit  ,asynctask disadvantages ,data binding, foreground service, life cycles ,rotation of phone callback methods, ConstraintLayout over linear / relative, recyclerview vs listview , main advantages on recyclerview, how to get data on same activity of recyclerview on button click, ollley, volley vs retrofit
+test topics ==>>jira, rx java, dagger 2, mvp ,mvvm, global class, singleton class, retro fit  ,asynctask disadvantages ,data binding, foreground service, life cycles ,rotation of phone callback methods, ConstraintLayout over linear / relative, recyclerview vs listview , main advantages on recyclerview, how to get data on same activity of recyclerview on button click, ollley, volley vs retrofit
 
 
 
@@ -28,7 +28,7 @@ Must have - Android Studio 2.0, Agile Ci/CD
 
 
 Key Skills: 
-At least 3 years’ experience working with Android/Kotlin/Java
+At least 3 yearsâ€™ experience working with Android/Kotlin/Java
 Delivered multithreaded apps and apps that work extensively with RESTful APIs
 Extensive understanding of software engineering concepts, with recent experience in Agile methodologies, and some experience in traditional Waterfall methodologies (i.e., version control systems, peer coding, code reviews, unit testing, continuous integration, release management, etc.).
 Good understanding of testing and quality assurance, including unit-tests, test plans, virtual test environments, beta tests and early adopter programs, and release management
